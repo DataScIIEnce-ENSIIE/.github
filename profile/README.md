@@ -1,10 +1,14 @@
-# DataScIIEnce
-
-Bienvenue sur la page GitHub officielle de l'association DataScIIEnce.
+Bienvenue sur le compte GitHub officiel de l'association **DataScIIEnce**
 
 
-## Liens
+
+## Nous retrouver
 
 * Site web : [datasciience.iiens.net](https://datasciience.iiens.net)
-* Adresse email : [datasciience@gmail.com](mailto:datasciience@gmail.com)
 * LinkedIn : [datasciience](https://www.linkedin.com/company/datasciience/)
+* Instagram : [datasciience_club](https://www.instagram.com/datasciience_club/)
+
+
+---
+
+<img src="https://datasciience.iiens.net/assets/img/logo_DS.png" width="200" />

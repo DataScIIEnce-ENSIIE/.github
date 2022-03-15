@@ -1,4 +1,4 @@
-Bienvenue sur le compte GitHub officiel de l'association **DataScIIEnce**
+Bienvenue sur le compte GitHub officiel de l'association **DataScIIEnce**.
 
 
 
@@ -9,6 +9,4 @@ Bienvenue sur le compte GitHub officiel de l'association **DataScIIEnce**
 * Instagram : [datasciience_club](https://www.instagram.com/datasciience_club/)
 
 
----
-
-<img src="https://datasciience.iiens.net/assets/img/logo_DS.png" width="200" />
+<img src="https://datasciience.iiens.net/assets/img/logo_DS.png" width="160" />

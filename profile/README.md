@@ -15,11 +15,11 @@
 
 <p align="center"><br><b>&bullet;&nbsp;&nbsp;&nbsp;&bullet;&nbsp;&nbsp;&nbsp;&bullet;</b></p>
 
-* [Contact](https://datasciience.iiens.net/contact.php)
+* Email contact : [online form](https://datasciience.iiens.net/contact.php)
 * Web : [datasciience.iiens.net](https://datasciience.iiens.net)
 * LinkedIn : [datasciience](https://www.linkedin.com/company/datasciience/)
 * Instagram : [datasciience_club](https://www.instagram.com/datasciience_club/)
 
 <p align="center"><br><br>
-  <img src="https://datasciience.iiens.net/assets/img/logo_DS.png" width="160" />
+  <img src="https://datasciience.iiens.net/assets/img/logo_DS_alt-alt.png" width="160" />
 </p>

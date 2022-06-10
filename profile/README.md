@@ -21,5 +21,5 @@
 * Instagram : [datasciience_club](https://www.instagram.com/datasciience_club/)
 
 <p align="center"><br><br>
-  <img src="https://datasciience.iiens.net/assets/img/logo_DS_alt-alt.png" width="160" />
+  <img src="https://datasciience.iiens.net/assets/img/logo_DS_alt-alt.png" width="120" />
 </p>

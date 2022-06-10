@@ -1,4 +1,6 @@
-# DataScIIEnce
+<img src="https://datasciience.iiens.net/assets/img/ban.png" />
+
+<!-- # DataScIIEnce -->
 
 
 <p>
@@ -12,10 +14,13 @@
   Bienvenue sur le compte GitHub officiel de l'association <b>DataScIIEnce</b>.
 </p>
 
-
+<!--
 <p align="center"><br><br>
   <img src="https://datasciience.iiens.net/assets/img/logo_DS_alt-alt.png" width="120" />
 </p>
+-->
+
+---
 
 * Email contact : [online form](https://datasciience.iiens.net/contact.php)
 * Web : [datasciience.iiens.net](https://datasciience.iiens.net)

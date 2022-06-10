@@ -2,14 +2,14 @@
 
 
 <p>
-<img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/France.png" width="30" /><br>
-  Bienvenue sur le compte GitHub officiel de l'association <b>DataScIIEnce</b>.
+<img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/United-Kingdom.png" width="30" /><br>
+  Welcome to the <b>DataScIIEnce</b> official GitHub page.
 </p>
 
 <br>
 <p>
-<img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/United-Kingdom.png" width="30" /><br>
-  Welcome to the <b>DataScIIEnce</b> official GitHub page.
+<img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/France.png" width="30" /><br>
+  Bienvenue sur le compte GitHub officiel de l'association <b>DataScIIEnce</b>.
 </p>
 
 

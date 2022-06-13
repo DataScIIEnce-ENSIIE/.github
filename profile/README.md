@@ -1,4 +1,4 @@
-<img src="https://datasciience.iiens.net/assets/img/ban.png" />
+<!-- <img src="https://datasciience.iiens.net/assets/img/ban.png" /> -->
 
 <!-- # DataScIIEnce -->
 

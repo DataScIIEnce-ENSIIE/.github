@@ -5,13 +5,17 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/United-Kingdom.png" width="30" /><br>
-  Welcome to the <b>DataScIIEnce</b> official GitHub page.
+  Welcome to the <b>DataScIIEnce</b> official GitHub page, which centralizes the different projects, sessions materials and snippets useful for Machine Learning and Data Analysis.
+
+  **DataScIIEnce** is the Data science, Machine & Deep learning student club of ENSIIE Paris, engineering school specialized in applied mathematics, high-performance computing and computer science.
 </p>
 
 <br>
 <p>
 <img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/France.png" width="30" /><br>
-  Bienvenue sur le compte GitHub officiel de l'association <b>DataScIIEnce</b>.
+  Bienvenue sur le compte GitHub officiel de l'association <b>DataScIIEnce</b>, centralisant les différents projets, ressources des séances et codes très utiles pour les domaines du Machine Learning et de l'Analyse de données.
+
+  **DataScIIEnce** est l'association étudiante en Data science, Machine et Deep Learning de l'ENSIIE Paris, Grande École d'ingénieurs française spécialisée en mathématiques appliquées, calcul haute-performance et informatique.
 </p>
 
 <!--

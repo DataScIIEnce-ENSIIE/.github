@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/lexkrstn/country-flags-css/master/src/flags/flat/64/United-Kingdom.png" width="30" /><br>
   Welcome to the <b>DataScIIEnce</b> official GitHub page, which centralizes the different projects, sessions materials and snippets useful for Machine Learning and Data Analysis.
 
-  **DataScIIEnce** is the Data science, Machine & Deep learning student club of ENSIIE Paris, engineering school specialized in applied mathematics, high-performance computing and computer science.
+  **DataScIIEnce** is the Data science, Machine & Deep learning student club of ENSIIE Paris, French engineering school specialized in applied mathematics, high-performance computing and computer science.
 </p>
 
 <br>
